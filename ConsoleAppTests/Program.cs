@@ -9,7 +9,7 @@ class Program
         }
     }
 
-    // method to get even numbers up to max
+    // Method to get even numbers up to max
     static IEnumerable<int> GetEvenNumbers(int max)
     {
         for (int i = 0; i <= max; i++)
